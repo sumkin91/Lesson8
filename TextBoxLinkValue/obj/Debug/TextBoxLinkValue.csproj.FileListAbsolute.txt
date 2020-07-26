@@ -1,0 +1,10 @@
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.Form1.resources
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.Properties.Resources.resources
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.csproj.GenerateResource.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\bin\Debug\TextBoxLinkValue.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\bin\Debug\TextBoxLinkValue.exe
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\bin\Debug\TextBoxLinkValue.pdb
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.exe
+C:\Users\Fedor\Desktop\C#\Lesson8\TextBoxLinkValue\obj\Debug\TextBoxLinkValue.pdb

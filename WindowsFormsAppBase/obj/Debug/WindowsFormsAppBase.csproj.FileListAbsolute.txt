@@ -1,0 +1,10 @@
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\bin\Debug\WindowsFormsAppBase.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\bin\Debug\WindowsFormsAppBase.exe
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\bin\Debug\WindowsFormsAppBase.pdb
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.Form1.resources
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.Properties.Resources.resources
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.csproj.GenerateResource.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.exe
+C:\Users\Fedor\Desktop\C#\Lesson8\WindowsFormsAppBase\obj\Debug\WindowsFormsAppBase.pdb
